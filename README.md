@@ -1,6 +1,6 @@
 Netflix Movies and TV Shows Data Analysis using SQL
 
-[Netflix_logl](https://github.com/adinathphanse1-prog/netflix_sql_project/blob/main/logo.png)
+![Netflix_logo](https://github.com/adinathphanse1-prog/netflix_sql_project/blob/main/logo.png)
 
 
 Overview
